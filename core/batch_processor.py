@@ -13,3 +13,9 @@ def process_batch_v2(items):
 def process_batch_v2(items):
     # New faster implementation - Fixed None check
     return [item.strip() if item else '' for item in items]
+
+
+def process_batch_v2(items):
+    # Optimized with generator
+    for item in items:
+        yield item.strip() if item else ''
