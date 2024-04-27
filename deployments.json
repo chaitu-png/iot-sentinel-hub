@@ -12,5 +12,12 @@
     "environment": "production",
     "status": "success",
     "deployed_by": "peis-auto-bot"
+  },
+  {
+    "version": "v1.2.0",
+    "timestamp": "2024-04-28T00:15:00",
+    "environment": "production",
+    "status": "success",
+    "deployed_by": "peis-auto-bot"
   }
 ]
