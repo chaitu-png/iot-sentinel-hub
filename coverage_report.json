@@ -1,13 +1,13 @@
 {
   "meta": {
     "project": "iot-sentinel-hub",
-    "version": "v1.2.0",
-    "timestamp": "2024-04-30T00:00:00"
+    "version": "v1.2.1",
+    "timestamp": "2024-05-20T00:00:00"
   },
   "metrics": {
     "lines_total": 4500,
-    "lines_covered": 2943,
-    "percentage": 65.4
+    "lines_covered": 4000,
+    "percentage": 88.9
   },
-  "debt_warning": "CRITICAL"
+  "debt_warning": "NONE"
 }
